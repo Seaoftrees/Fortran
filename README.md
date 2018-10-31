@@ -17,4 +17,4 @@ http://www.nag-j.co.jp/fortran/index.html
 - 文字列の連結
 - プログラムの行連結
 ### 2. variable
-変数や型など
+変数や型など(未完成)
