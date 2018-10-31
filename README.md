@@ -6,6 +6,7 @@
 コメントアウトしまくって説明入れているのでそのへんもご了承を。  
 以下のサイトを参考にさせていただいています。  
 http://www-space.eps.s.u-tokyo.ac.jp/~amano/education/fortran/chap02.html
+http://www.nag-j.co.jp/fortran/index.html
 
 ## 目次
 ### 0. helloworld
