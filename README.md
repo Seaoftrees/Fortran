@@ -10,4 +10,10 @@ http://www-space.eps.s.u-tokyo.ac.jp/~amano/education/fortran/chap02.html
 ## 目次
 ### 0. helloworld
 環境構築メモと、ただのhello, world
-### 1. 未定
+### 1. stdSyntax
+超基本構文
+- コメントアウト
+- 文字列の連結
+- プログラムの行連結
+### 2. variable
+変数や型など
