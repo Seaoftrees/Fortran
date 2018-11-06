@@ -11,10 +11,15 @@ http://www.nag-j.co.jp/fortran/index.html
 ## 目次
 ### 0. helloworld
 環境構築メモと、ただのhello, world
-### 1. stdSyntax
+### 1. StandardSyntax
 超基本構文
 - コメントアウト
 - 文字列の連結
 - プログラムの行連結
-### 2. variable
-変数や型など(未完成)
+- 文の連続
+### 2. variable(未完成)
+型と変数の宣言
+- 変数の宣言法と型の種類
+- 文字型のお話
+- 
+- おまけ(print*の話)
