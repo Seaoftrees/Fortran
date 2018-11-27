@@ -21,5 +21,4 @@ http://www.nag-j.co.jp/fortran/index.html
 型と変数の宣言
 - 変数の宣言法と型の種類
 - 文字型のお話
-- 
 - おまけ(print*の話)
